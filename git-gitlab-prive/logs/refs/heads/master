@@ -1,0 +1,66 @@
+0000000000000000000000000000000000000000 612cda8f5926868438d41b380d7589c3d81a0229 morganBeweb30 <morg.leen@ouvaton.org> 1584182348 +0100	commit (initial): first commit branch eventcreate
+612cda8f5926868438d41b380d7589c3d81a0229 a542677078803a8d14db66eb3d27dcb3f8e4e16c morganBeweb30 <morg.leen@ouvaton.org> 1584724335 +0100	merge eventcreate: Fast-forward
+a542677078803a8d14db66eb3d27dcb3f8e4e16c 3512445ae804045372f85aad17ed3cc9d1c03679 morganBeweb30 <morg.leen@ouvaton.org> 1584728865 +0100	commit (merge): Merge branch 'master' of bwb-community
+3512445ae804045372f85aad17ed3cc9d1c03679 1e82a1f7b1666c74948ac01b42d8070c5023cfdf morganBeweb30 <morg.leen@ouvaton.org> 1584728895 +0100	commit: màj routes
+1e82a1f7b1666c74948ac01b42d8070c5023cfdf 6e209582141bbca623ebdfb96a265b5d98e932ee morganBeweb30 <morg.leen@ouvaton.org> 1584872764 +0100	commit: event delete ok
+6e209582141bbca623ebdfb96a265b5d98e932ee 72951fdb0d8255970c8804976bf531ac42a9a939 morganBeweb30 <morg.leen@ouvaton.org> 1584885672 +0100	commit: add readme
+72951fdb0d8255970c8804976bf531ac42a9a939 26cfaf248a16245c9a70be070fc46c44d431eea2 morganBeweb30 <morg.leen@ouvaton.org> 1584885727 +0100	pull origin master: Merge made by the 'recursive' strategy.
+26cfaf248a16245c9a70be070fc46c44d431eea2 b164dc999a25558d8b8e01ebbed973398ab872db morganBeweb30 <morg.leen@ouvaton.org> 1584900743 +0100	commit: jointures techno + categ
+b164dc999a25558d8b8e01ebbed973398ab872db cf6d4c20952bb25e9f7c5bdd0929b4ac18d57eef morganBeweb30 <morg.leen@ouvaton.org> 1589803701 +0200	pull origin master: Fast-forward
+cf6d4c20952bb25e9f7c5bdd0929b4ac18d57eef aff6b396024961b53a31d17d4ce3389a74391cee morganBeweb30 <morg.leen@ouvaton.org> 1589871155 +0200	pull origin master: Fast-forward
+aff6b396024961b53a31d17d4ce3389a74391cee 9a90d3cb3997f863b432ad752298a7191901168d morganBeweb30 <morg.leen@ouvaton.org> 1589878125 +0200	commit: get_all + catégories
+9a90d3cb3997f863b432ad752298a7191901168d b90e79514560bd10d0cecafe7a0eafe60040a640 morganBeweb30 <morg.leen@ouvaton.org> 1589976188 +0200	pull origin master: Fast-forward
+b90e79514560bd10d0cecafe7a0eafe60040a640 45ff1906b9acc9d9bb3718b4e167ac26c1a61d08 morganBeweb30 <morg.leen@ouvaton.org> 1589983734 +0200	merge validate_event: Fast-forward
+45ff1906b9acc9d9bb3718b4e167ac26c1a61d08 dbf7939cb9ac606a28b4a45aa51db8e1bfa10af2 morganBeweb30 <morg.leen@ouvaton.org> 1589983942 +0200	merge character_limiter: Merge made by the 'recursive' strategy.
+dbf7939cb9ac606a28b4a45aa51db8e1bfa10af2 23e2efee93e5280488b5f5a577f59731201f5255 morganBeweb30 <morg.leen@ouvaton.org> 1589984177 +0200	pull origin master: Merge made by the 'recursive' strategy.
+23e2efee93e5280488b5f5a577f59731201f5255 418d86a6f6c5108cc5a495df53f42719d518a647 morganBeweb30 <morg.leen@ouvaton.org> 1589986987 +0200	commit: Mis character_limiter sur views/admin/validate_events
+418d86a6f6c5108cc5a495df53f42719d518a647 e0e6ab7b383b78f41077a3856777c83bbf2ef00b morganBeweb30 <morg.leen@ouvaton.org> 1590129485 +0200	pull origin master: Merge made by the 'recursive' strategy.
+e0e6ab7b383b78f41077a3856777c83bbf2ef00b ebe78b2314e84bf28827c43df7fa81413e3d56ef morganBeweb30 <morg.leen@ouvaton.org> 1590130040 +0200	commit: mise à jour fin de semaine
+ebe78b2314e84bf28827c43df7fa81413e3d56ef e730c20b061d52f72a2bdb3b97d1d60d13905dec morganBeweb30 <morg.leen@ouvaton.org> 1590140017 +0200	commit: routes entre admin_c. / event_cont. et views/admin / views/events
+e730c20b061d52f72a2bdb3b97d1d60d13905dec 34c448b3d9e86685dd21c483b837369f412d8051 morganBeweb30 <morg.leen@ouvaton.org> 1590141065 +0200	commit: Start ignoring user_guide
+34c448b3d9e86685dd21c483b837369f412d8051 b0f34825bf99355103911ad3e36a48167c3efbe2 morganBeweb30 <morg.leen@ouvaton.org> 1590141223 +0200	commit: début d'ignore user_guide
+b0f34825bf99355103911ad3e36a48167c3efbe2 e4c952f28cbdbb1df68b2f7f42a300fd2c6a6bdb morganBeweb30 <morg.leen@ouvaton.org> 1590164153 +0200	commit: Installé sass, fichiers source asset/scss, fichiers destination asset/css
+e4c952f28cbdbb1df68b2f7f42a300fd2c6a6bdb fbd47589ecd1be447445f44c52d0f005a67358f1 morganBeweb30 <morg.leen@ouvaton.org> 1590347953 +0200	pull origin master: Merge made by the 'recursive' strategy.
+fbd47589ecd1be447445f44c52d0f005a67358f1 b12ad9e6849d4b61b04fdefa37772a4c3bca599a morgpion <morg.leen@ouvaton.org> 1590506322 +0200	pull origin master: Fast-forward
+b12ad9e6849d4b61b04fdefa37772a4c3bca599a e8045425105aa51a3974635abe58fc4e830e88ab morgpion <morg.leen@ouvaton.org> 1590506525 +0200	commit: 2 fichiers non plus en compte
+e8045425105aa51a3974635abe58fc4e830e88ab e6307243c7cd918b04bd96232ef3b78e0f51e43c morgpion <morg.leen@ouvaton.org> 1590506911 +0200	commit (merge): Merge branch 'event-cats-technos'
+e6307243c7cd918b04bd96232ef3b78e0f51e43c 69dc8d456760dd849dcd6bb18c94696fd5ae13a4 morgpion <morg.leen@ouvaton.org> 1590584253 +0200	commit: remis img dans le foreach de events/view_all_events
+69dc8d456760dd849dcd6bb18c94696fd5ae13a4 54a1097843738c26b14dec36cbac512c9e05b058 morgpion <morg.leen@ouvaton.org> 1590596719 +0200	commit (merge): réglé noms colonnes (-event_) et affichage images
+54a1097843738c26b14dec36cbac512c9e05b058 153cee435d0cfe6c19914cdf9317a033ad61fc36 morgpion <morg.leen@ouvaton.org> 1590752459 +0200	pull origin master: Fast-forward
+153cee435d0cfe6c19914cdf9317a033ad61fc36 f9feac67aea026f28806f80e1a102d39319e6a9f morgpion <morg.leen@ouvaton.org> 1590753320 +0200	commit (merge): Merge branch 'sessions'
+f9feac67aea026f28806f80e1a102d39319e6a9f a06cf6ceafd0f4223163ae89755c07c855513adb morgpion <morg.leen@ouvaton.org> 1591087388 +0200	pull origin master: Fast-forward
+a06cf6ceafd0f4223163ae89755c07c855513adb 9e8a00b8c15f16c29a3eebb257e87ac71963dab8 morgpion <morg.leen@ouvaton.org> 1591089151 +0200	merge index_view: Merge made by the 'recursive' strategy.
+9e8a00b8c15f16c29a3eebb257e87ac71963dab8 6bd047ae08d8afdbaa83d802d37b1592f41b62a1 morgpion <morg.leen@ouvaton.org> 1591122040 +0200	commit: WIP page index en cours + helper onglet_title ok
+6bd047ae08d8afdbaa83d802d37b1592f41b62a1 9b2a3eee43c2551805cc6df4d58d87bc2ac21d00 morgpion <morg.leen@ouvaton.org> 1591126114 +0200	commit (merge): Merge branch 'master'
+9b2a3eee43c2551805cc6df4d58d87bc2ac21d00 c2c33af8e419cb4a52d615687107887f036dbda8 morgpion <morg.leen@ouvaton.org> 1591132604 +0200	commit: ajout pageTitle par défaut pour ce site
+c2c33af8e419cb4a52d615687107887f036dbda8 f08bf7430f75e7167d1f4d4170244df19be14d8e morgpion <morg.leen@ouvaton.org> 1591194628 +0200	pull origin master: Fast-forward
+f08bf7430f75e7167d1f4d4170244df19be14d8e e3376ac3c109e8778f8d42169dd848f0a008a33e morgpion <morg.leen@ouvaton.org> 1591194862 +0200	commit (merge): Merge branch 'index_view'
+e3376ac3c109e8778f8d42169dd848f0a008a33e 9fa60db1245683e231dab545f8f68d00d1d9c229 morgpion <morg.leen@ouvaton.org> 1591253343 +0200	merge index_2: Fast-forward
+9fa60db1245683e231dab545f8f68d00d1d9c229 1f01798e3d090bd16297df77431f6ab285796fc9 morgpion <morg.leen@ouvaton.org> 1591279079 +0200	merge techno_model: Fast-forward
+1f01798e3d090bd16297df77431f6ab285796fc9 3327bc8f62622300d495818c1ef52bcc238fefa3 morgpion <morg.leen@ouvaton.org> 1591279249 +0200	commit (merge): pull + merge
+3327bc8f62622300d495818c1ef52bcc238fefa3 e244937d7dc9e082c6c826f383ea019dc35ff4b3 morgpion <morg.leen@ouvaton.org> 1591280136 +0200	commit: update to fix
+e244937d7dc9e082c6c826f383ea019dc35ff4b3 dbd7c151704b0f4040af7acea075c92ebb3842a4 morgpion <morg.leen@ouvaton.org> 1591280270 +0200	commit (amend): 2 erreurs corrigées, il en reste
+dbd7c151704b0f4040af7acea075c92ebb3842a4 29c5fa7eecbeaadcb7e85e56cbc85dd7cfedae6c morgpion <morg.leen@ouvaton.org> 1591283676 +0200	commit: corrigé des erreurs category_controller
+29c5fa7eecbeaadcb7e85e56cbc85dd7cfedae6c 90a85dc603bac35cc2085e52fddfcf3fb182c357 morgpion <morg.leen@ouvaton.org> 1591284917 +0200	commit: bug update_category corrigé
+90a85dc603bac35cc2085e52fddfcf3fb182c357 68a4e18b952c7408960507b333d15ca8b94fc2b6 morgpion <morg.leen@ouvaton.org> 1591613862 +0200	pull origin master: Fast-forward
+68a4e18b952c7408960507b333d15ca8b94fc2b6 ea969a52c35501aa456a89b6f8e191955c283fb5 morgpion <morg.leen@ouvaton.org> 1591614497 +0200	commit (merge): Merge branch 'categ_view'
+ea969a52c35501aa456a89b6f8e191955c283fb5 a9d5d7e02b4c59887b74c672ef9bf0ef4ebf3a71 morgpion <morg.leen@ouvaton.org> 1591619513 +0200	commit: réglage card-footer css sur techno et category
+a9d5d7e02b4c59887b74c672ef9bf0ef4ebf3a71 e6b1df88f3fd82caf5a14b98c5e3931eb3cc7d23 morgpion <morg.leen@ouvaton.org> 1591619609 +0200	commit (merge): Merge branch 'master'
+e6b1df88f3fd82caf5a14b98c5e3931eb3cc7d23 f5a968154f9a27bece850f7088a0e1cb0262be11 morgpion <morg.leen@ouvaton.org> 1591685008 +0200	commit: début check onglets, welcome fait
+f5a968154f9a27bece850f7088a0e1cb0262be11 02f2f5bcc710dc07ed482fee55bb07cfa93c977e morgpion <morg.leen@ouvaton.org> 1591685230 +0200	commit (merge): Merge branch 'master' of community
+02f2f5bcc710dc07ed482fee55bb07cfa93c977e 29cb60e6bbee92a4eb208eb3cdd24945b3a933c9 morgpion <morg.leen@ouvaton.org> 1591693323 +0200	commit: onglets ok, manque faq
+29cb60e6bbee92a4eb208eb3cdd24945b3a933c9 e05544b2e1adf166d3600762f53b0bff2bcb5756 morgpion <morg.leen@ouvaton.org> 1591693427 +0200	commit (merge): Merge branch 'master' of community
+e05544b2e1adf166d3600762f53b0bff2bcb5756 a2288afaf3c9da05f242467e2eb1dcd2b2c4cfa1 morgpion <morg.leen@ouvaton.org> 1591696091 +0200	commit: check onglets ok
+a2288afaf3c9da05f242467e2eb1dcd2b2c4cfa1 20a9ebbeebc8e922413ee679cc79d6e91398f61b morgpion <morg.leen@ouvaton.org> 1591702826 +0200	pull origin master: Fast-forward
+20a9ebbeebc8e922413ee679cc79d6e91398f61b d8a897827902a7d93ec064641ccb320de7281dbd morgpion <morg.leen@ouvaton.org> 1591705122 +0200	commit: ajout favicon
+d8a897827902a7d93ec064641ccb320de7281dbd d3a2aece6b0e356c5740ce9f373121d540d284e8 morgpion <morg.leen@ouvaton.org> 1591705170 +0200	pull origin master: Merge made by the 'recursive' strategy.
+d3a2aece6b0e356c5740ce9f373121d540d284e8 a94553507106dada604333857b29a144fddb8c20 morgpion <morg.leen@ouvaton.org> 1591705312 +0200	commit: retiré ligne de comment sur header
+a94553507106dada604333857b29a144fddb8c20 53ed9ef5f45963da9d2cb46d102006cfce2bffd8 morgpion <morg.leen@ouvaton.org> 1591712187 +0200	commit: correction titles connexion et inscription
+53ed9ef5f45963da9d2cb46d102006cfce2bffd8 8cf6e294ba7c246410c844d0784dca07b3b1a210 morgpion <morg.leen@ouvaton.org> 1591712197 +0200	pull origin master: Merge made by the 'recursive' strategy.
+8cf6e294ba7c246410c844d0784dca07b3b1a210 11aeb12577edbc3283b834289ded1b5c51ed5a20 morgpion <morg.leen@ouvaton.org> 1591786097 +0200	commit: ajouté update_event depuis le dashboard
+11aeb12577edbc3283b834289ded1b5c51ed5a20 82a6d004e08fffea3fb6d27e1c6c45bd79feed36 morgpion <morg.leen@ouvaton.org> 1591786454 +0200	commit (merge): Merge branch 'master' of community
+82a6d004e08fffea3fb6d27e1c6c45bd79feed36 884673c43a4f4648a2c4e090872d5b9ae1f10f36 morgpion <morg.leen@ouvaton.org> 1591787427 +0200	commit: correction d'un faux bug à l'inscription
+884673c43a4f4648a2c4e090872d5b9ae1f10f36 0b4a321b613c2cdb266fbabe2b88d4236f598e60 morgpion <morg.leen@ouvaton.org> 1591791697 +0200	merge checked_categs_event: Fast-forward
+0b4a321b613c2cdb266fbabe2b88d4236f598e60 05d1381defedd6040f5c27c98e8a8fb2c92e3ae1 morgpion <morg.leen@ouvaton.org> 1591799537 +0200	merge update_event_username: Fast-forward
+05d1381defedd6040f5c27c98e8a8fb2c92e3ae1 2d5ad5770f207693fc1cba48e9e2c96ed83e7d6e morgpion <morg.leen@ouvaton.org> 1591888726 +0200	pull origin master: Fast-forward
+2d5ad5770f207693fc1cba48e9e2c96ed83e7d6e 387c075bf0160810d2596d8eedddb74189647db1 morgpion <morg.leen@ouvaton.org> 1591888961 +0200	commit (merge): Merge branch 'js_image_event'

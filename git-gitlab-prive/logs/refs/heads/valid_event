@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 6678d3b5913320477f561a97750baa3f044f5584 morganBeweb30 <morg.leen@ouvaton.org> 1584713005 +0100	branch: Created from HEAD
+6678d3b5913320477f561a97750baa3f044f5584 45647616f0ab858362c13b9a7b4dae8d34fee4bf morganBeweb30 <morg.leen@ouvaton.org> 1584713574 +0100	commit: dashboard validate events
+45647616f0ab858362c13b9a7b4dae8d34fee4bf 588154ac0323198190b8401934c3cf4eeea2122b morganBeweb30 <morg.leen@ouvaton.org> 1584715872 +0100	commit: valid. event ok
+588154ac0323198190b8401934c3cf4eeea2122b a542677078803a8d14db66eb3d27dcb3f8e4e16c morganBeweb30 <morg.leen@ouvaton.org> 1584723647 +0100	merge eventcreate: Fast-forward
+a542677078803a8d14db66eb3d27dcb3f8e4e16c 99e40fc120046f2b6e1a685d1f1ef83d2f91682f morganBeweb30 <morg.leen@ouvaton.org> 1589980972 +0200	commit: WIP ajouté msg sur la view si pas d'events à valider

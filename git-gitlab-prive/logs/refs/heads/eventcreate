@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 612cda8f5926868438d41b380d7589c3d81a0229 morganBeweb30 <morg.leen@ouvaton.org> 1584182532 +0100	branch: Created from HEAD
+612cda8f5926868438d41b380d7589c3d81a0229 d88dccd7c9f149c80bd48112b2e641ec3e93968e morganBeweb30 <morg.leen@ouvaton.org> 1584190086 +0100	commit: start ignoring database.php
+d88dccd7c9f149c80bd48112b2e641ec3e93968e 3a76664a5f44eec9516900debbbebfb19568b4dd morganBeweb30 <morg.leen@ouvaton.org> 1584441146 +0100	commit: to fix
+3a76664a5f44eec9516900debbbebfb19568b4dd df953183f28712793ac516391c62006d45d6c764 morganBeweb30 <morg.leen@ouvaton.org> 1584456579 +0100	commit: fixed, reste rediraffichage en cas d'erreur
+df953183f28712793ac516391c62006d45d6c764 6503465fcb26395af4a2bf82fdb48599521b217d morganBeweb30 <morg.leen@ouvaton.org> 1584466444 +0100	commit: to fix update
+6503465fcb26395af4a2bf82fdb48599521b217d e80af1d7be8c09e9563bc8938e1a0dca6f5b8b19 morganBeweb30 <morg.leen@ouvaton.org> 1584618883 +0100	merge tofix: Fast-forward
+e80af1d7be8c09e9563bc8938e1a0dca6f5b8b19 8769963a32254bab82b6edee5c2477494f6e85cf morganBeweb30 <morg.leen@ouvaton.org> 1584697840 +0100	commit: tests join qui inverse is_active
+8769963a32254bab82b6edee5c2477494f6e85cf d17042424fee506f5788e876402a95fc497777e1 morganBeweb30 <morg.leen@ouvaton.org> 1584698264 +0100	commit (merge): pull branche
+d17042424fee506f5788e876402a95fc497777e1 6678d3b5913320477f561a97750baa3f044f5584 morganBeweb30 <morg.leen@ouvaton.org> 1584708319 +0100	commit: retiré methodes de test
+6678d3b5913320477f561a97750baa3f044f5584 e32d32afdc23440d4603ccf66b5c4e27dc7ceba4 morganBeweb30 <morg.leen@ouvaton.org> 1584713719 +0100	pull origin eventcreate: Fast-forward
+e32d32afdc23440d4603ccf66b5c4e27dc7ceba4 4bdf34e30147be12fc55af2407d785448dbe1bec morganBeweb30 <morg.leen@ouvaton.org> 1584714433 +0100	commit: reprise valid. event
+4bdf34e30147be12fc55af2407d785448dbe1bec 9149bade242dc0fe6ece70d24e8d9b53337a8145 morganBeweb30 <morg.leen@ouvaton.org> 1584716871 +0100	commit (merge): Merge branch 'valid_event' into eventcreate
+9149bade242dc0fe6ece70d24e8d9b53337a8145 a542677078803a8d14db66eb3d27dcb3f8e4e16c morganBeweb30 <morg.leen@ouvaton.org> 1584720491 +0100	commit: ajout description event ok

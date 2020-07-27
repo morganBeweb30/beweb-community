@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 e3376ac3c109e8778f8d42169dd848f0a008a33e morgpion <morg.leen@ouvaton.org> 1591195074 +0200	branch: Created from master
+e3376ac3c109e8778f8d42169dd848f0a008a33e e6d8cb82a460871df5a590aaf03465c1bad80131 morgpion <morg.leen@ouvaton.org> 1591204867 +0200	commit: retiré library de session
+e6d8cb82a460871df5a590aaf03465c1bad80131 8c241c3e2b97875b10464e6629fd28baacfcc151 morgpion <morg.leen@ouvaton.org> 1591210665 +0200	commit: menu gauche et 'bonjour' selon session ok
+8c241c3e2b97875b10464e6629fd28baacfcc151 9fa60db1245683e231dab545f8f68d00d1d9c229 morgpion <morg.leen@ouvaton.org> 1591253305 +0200	commit: changé message dans navbar
